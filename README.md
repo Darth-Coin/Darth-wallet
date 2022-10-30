@@ -1,4 +1,4 @@
-# Blixt Lightning Wallet
+# Darth Lightning Wallet
 
 <a href="https://play.google.com/apps/testing/com.blixtwallet"><img alt="Get it on Google Play" height="52" src="https://blixtwallet.github.io/assets/images/google-play-badge-2.png" /></a>&nbsp;
 <a href="https://testflight.apple.com/join/EXvGhRzS"><img alt="Download on the App Store" height="52" src="https://blixtwallet.github.io/assets/images/appstore-badge.svg" /></a>&nbsp;
